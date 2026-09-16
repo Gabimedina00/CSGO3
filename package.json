@@ -1,0 +1,26 @@
+{
+  "name": "csgo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabimedina00/CSGO3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Gabimedina00/CSGO3/issues"
+  },
+  "homepage": "https://github.com/Gabimedina00/CSGO3#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^5.0.1",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.1"
+  }
+}
